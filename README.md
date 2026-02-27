@@ -1,5 +1,7 @@
 # Animal Shelter Data Analysis
 
+![Animal Intake to Outcome Flow](./assets/intake_to_outcome_flow.png)
+
 ## Overview
 
 This project presents a comprehensive analysis of animal shelter operations using real-world data from **Austin Animal Center** in Austin, Texas (US). The analysis was conducted as part of the **BI-VIZ course at FIT CTU in 2025**.
